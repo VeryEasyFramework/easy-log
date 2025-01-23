@@ -1,1 +1,3 @@
-export { EasyLogger } from "#/easyLog.ts";
+export * from "#/easyLog.ts";
+
+export * from "#/logging.ts";
