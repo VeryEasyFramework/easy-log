@@ -1,2 +1,3 @@
-# deno-lib-template
-Boilerplate code for a Deno library
+# Easy Log
+
+A logger for the VeryEasy Framework.
