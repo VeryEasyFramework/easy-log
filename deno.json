@@ -13,6 +13,13 @@
     "#/": "./src/",
     "@vef/easy-utils": "jsr:@vef/easy-utils@^0.1.3"
   },
+  "lint": {
+    "rules": {
+      "exclude": [
+        "no-explicit-any"
+      ]
+    }
+  },
   "tasks": {
     "check": "deno publish --dry-run"
   }
